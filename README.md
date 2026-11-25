@@ -1,4 +1,4 @@
-# Hi, I am [Anushka Pandeya]!
+# Hi, I am Anushka Pandeya!
 
 ## About Me
 
@@ -22,7 +22,7 @@
 
 ## Featured Projects
 
-- [CSE103 Lab — LAB 3](https://github.com/[username]/cse103-lab-LAB3)
+- CSE103 Lab — LAB 3 (https://github.com/[anushka-pandeya14]/cse103-lab-LAB3)
 
 Git workflows, API interaction, and Markdown documentation
 
@@ -32,6 +32,6 @@ Git workflows, API interaction, and Markdown documentation
 
 ## Connect With Me
 
-- LinkedIn : [https://www.linkedin.com/in/anushka-pandeya-71b707431/]
+- LinkedIn : https://www.linkedin.com/in/anushka-pandeya-71b707431/
 
-- Email : [anushka.divu@gmail.com]
+- Email : anushka.divu@gmail.com
